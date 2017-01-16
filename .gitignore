@@ -1,0 +1,34 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+bin/
+
+#others
+${webapp.home}/
+${tomcat.home}/
+catalina.base_IS_UNDEFINED/
+
+#wildcards
+*.sh
+*.sh~
+*.class
+*.jar
+*.war
+*~
+*.swp
+*.swo
+*.patch
